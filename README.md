@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**CaptainMishan/CaptainMishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michal Dobes. I have coding experience mainly in Swift. 
+I am keen on creating beautiful designs. I have created and am managing multiple own apps.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Skills
 ![Skills](https://michaldobes.eu/img/skillset.png)
+
+### Reach me
+-[Website](https://michaldobes.eu)
+-[Twitter](https://twitter.com/mishpajz)
+
+### My projects
+- [Traktic](https://traktic.michaldobes.eu)
+- [Orbitals!](https://orbitals.michaldobes.eu)
